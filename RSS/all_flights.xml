@@ -5,12 +5,12 @@
     <link>https://flightaware.com</link>
     <description>Unified live tracking feed for all shift flights</description>
     <language>en-us</language>
-    <pubDate>Sat, 08 Aug 2026 00:59:57 GMT</pubDate>
+    <pubDate>Sat, 08 Aug 2026 01:03:16 GMT</pubDate>
     <item>
-      <title>WN237 | LAS to MCI | Time Not Found</title>
+      <title>WN237 | LAS to MCI | 02:12AM</title>
       <link>https://flightaware.com/live/flight/SWA237</link>
-      <description>WN237&#x0A;LAS to MCI&#x0A;Time Not Found&#x0A;3:42 Late</description>
-      <pubDate>Sat, 08 Aug 2026 00:59:57 GMT</pubDate>
+      <description>WN237&#x0A;LAS to MCI&#x0A;02:12AM&#x0A;3:42 Late</description>
+      <pubDate>Sat, 08 Aug 2026 01:03:16 GMT</pubDate>
       <guid isPermaLink="true">https://flightaware.com/live/flight/SWA237</guid>
     </item>
   </channel>
