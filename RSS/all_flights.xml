@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Active Flights Master Status Feed</title>
-    <link>https://flightaware.com</link>
-    <description>Unified live tracking feed for all shift flights</description>
-    <language>en-us</language>
-    <pubDate>Sat, 08 Aug 2026 01:18:50 GMT</pubDate>
-    <item>
-      <title>WN4840 | MDW to PDX | 01:30AM PDT</title>
-      <link>https://flightaware.com/live/flight/SWA4840</link>
-      <description>WN4840&#x0A;MDW to PDX&#x0A;01:30AM PDT <span style="color:red;">(2:25 Late)</span></description>
-      <pubDate>Sat, 08 Aug 2026 01:18:50 GMT</pubDate>
-      <guid isPermaLink="true">https://flightaware.com/live/flight/SWA4840</guid>
-    </item>
-  </channel>
-</rss>
+<?xml version='1.0' encoding='UTF-8'?><rss version='2.0'><channel><title>Flights</title></channel></rss>
